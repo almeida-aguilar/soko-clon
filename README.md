@@ -18,13 +18,18 @@ La ejecución se va a hacer vía CLI.
 `concepto:`
 
 ```sh
-# generar niveles infinitamente
+# generar niveles infinitos con semilla aleatoria
 skclon
 
-# generar n niveles
+# generar niveles cotados con semilla aleatoria
 skclon <num_levels>
 # ejemplo
 skclon 10
+
+# generar niveles infinitos con semilla personalizada
+skclon 00 <seed>
+# ejemplo
+skclon 00 1024
 
 # generar n niveles con s semilla
 skclon <num_levels> <seed>
