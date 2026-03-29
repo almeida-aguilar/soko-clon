@@ -32,5 +32,5 @@ skclon <seed>
 ## TODO
 
 - [X] Iniciar el proyecto.
-- [X] Implementar `CLI`
+- [X] Implementar `CLI`.
 - [ ] `Enum` de las diferentes tipos de celdas.
