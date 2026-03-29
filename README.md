@@ -9,4 +9,5 @@ Level generation is a port of [AlliBalliBaba's Sokoban Level Generator]
 
 ## Blog
 
-Progress notes are in [`docs/`](docs/).
+Progress notes are in the project [Blog](https://almeida-aguilar.github.io/soko-clon/)
+.
