@@ -1,4 +1,7 @@
-# Cambio en el CLI
+---
+title: "Cambios en el CLI y mejoras en la seguridad"
+date: 2026-03-28
+---
 
 ## Cosas corregidas
 
@@ -34,7 +37,7 @@ Una manera era con `strtol` (que no sé porque no existe un `strtoi`, cuanto les
 cuesta), `strtol` me permite saber si el iterador llego a leer todo el `string`,
 de lo contrario lanzo un error de incompatibilidad.
 
-### KISS -- Keep It Simple, Stupid
+## KISS -- Keep It Simple, Stupid
 
 Intentar hacer un CLI, aunque simple, con más opciones de las necesarias fue un
 error, y como mencioné antes, el CLI solo se va a quedar para el testing y luego
