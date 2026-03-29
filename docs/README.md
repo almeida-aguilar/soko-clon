@@ -2,7 +2,7 @@
 
 ## Blog
 
-[2026-03-28](### 2026-03-28: Cambio en el CLI)
+[### 2026-03-28: Cambios en el CLI y mejoras en la seguridad](2026-03-28)
 
 ## Idea
 
