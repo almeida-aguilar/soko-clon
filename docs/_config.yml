@@ -1,2 +1,4 @@
 baseurl: "/soko-clon"
-
+collections:
+  about:
+    output: true

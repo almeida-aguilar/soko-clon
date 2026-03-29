@@ -1,5 +1,5 @@
 ---
-title: SokoClon Blog
+title: "¿Quien soy?"
 ---
 
 Hola, soy Almeida, Almendra, Almond o solo Alm para abreviar. A día de hoy
@@ -30,25 +30,3 @@ haciendo.
 A continuación verás todos los posts de este blog y nada me haría más feliz
 que le echaras un vistazo. No escribo también como para decir "qué bruto,
 qué bien escribe", pero doy lo máximo y, más que todo, lo más personal de mí.
-
-## About
-
-{% for page in site.about %}
-
-### [{{ page.title }}]({{ page.url | relative_url }})
-
-{% endfor %}
-
-## Posts
-
-{% for post in site.posts %}
-
-### [*{{ post.date | date: "%Y-%m-%d" }}* | {{ post.title }}]({{ post.url }})
-
-{% endfor %}
-
----
-
-- **GitHub**: [github.com/almeida-aguilar](https://github.com/almeida-aguilar)
-- **LinkedIn**: [linkedin.com/in/almeida-aguilar](https://linkedin.com/in/almeida-aguilar)
-- **Contacto**: [almeida.aguilar.contact@gmail.com](mailto:almeida.aguilar.contact@gmail.com)
