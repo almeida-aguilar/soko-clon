@@ -2,7 +2,7 @@
 
 ## Blog
 
-### [*2026-03-28* | Cambios en el CLI y mejoras en la seguridad](/docs/cambios-cli-seguridad.md)
+### [*2026-03-28* | Cambios en el CLI y mejoras en la seguridad](cambios-cli-seguridad.md)
 
 ## Idea
 
