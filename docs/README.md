@@ -1,5 +1,9 @@
 # Soko-clon
 
+## Blog
+
+[2026-03-28](### 2026-03-28: Cambio en el CLI)
+
 ## Idea
 
 Hacer un clon de [Sokoban](https://en.wikipedia.org/wiki/Sokoban).
@@ -18,27 +22,15 @@ La ejecución se va a hacer vía CLI.
 `concepto:`
 
 ```sh
-# generar niveles infinitos con semilla aleatoria
+# generar niveles con semilla aleatoria
 skclon
 
-# generar niveles cotados con semilla aleatoria
-skclon <num_levels>
-# ejemplo
-skclon 10
-
-# generar niveles infinitos con semilla personalizada
-skclon 00 <seed>
-# ejemplo
-skclon 00 1024
-
-# generar n niveles con s semilla
-skclon <num_levels> <seed>
-# ejemplo
-skclon 20 1024
+# generar niveles con semilla perzonalizada
+skclon <seed>
 ```
 
 ## TODO
 
 - [X] Iniciar el proyecto.
-- [ ] Implementar `CLI`
+- [X] Implementar `CLI`
 - [ ] `Enum` de las diferentes tipos de celdas.
