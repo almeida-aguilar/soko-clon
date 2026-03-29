@@ -1,7 +1,6 @@
 ---
 title: "Cambios en el CLI y mejoras en la seguridad"
 date: 2026-03-28
-permalink: /posts/cambios-cli-seguridad
 ---
 
 ## Cosas corregidas
