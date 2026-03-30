@@ -1,5 +1,5 @@
 --- 
-title: "Que metodologia estaré usando"
+title: "¿Qué metodologia estaré usando?"
 --- 
 Para maximizar la efectividad de mi aprendizaje, estoy usando el método del
 recreative programming, popularizado por el youtuber y streamer

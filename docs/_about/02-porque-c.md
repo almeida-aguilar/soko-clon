@@ -1,5 +1,5 @@
 ---
-title: "¿Por qué C?""
+title: "¿Por qué C?"
 ---
 
 ¿Por qué eligiría usar C? ¿Acaso no sé que la industria usa C++? Obvio que
